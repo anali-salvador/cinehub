@@ -42,7 +42,7 @@ npm run dev
 Crea un archivo `.env` en la raíz:
 
 ```env
-VITE_TMDB_API_KEY=tu_api_key_aqui
+VITE_TMDB_API_KEY=5e142d0a398cc99d330c9d713ee71492
 ```
 
 ## ✨ Funcionalidades
