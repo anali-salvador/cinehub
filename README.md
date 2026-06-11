@@ -2,7 +2,7 @@
 
 E-commerce de tickets de cine construido con React, TypeScript y las mejores librerías modernas del ecosistema.
 
-## 🚀 Tech Stack
+## 🚀 Tecnologías
 
 - ⚛️ React 19 + Vite
 - 🟦 TypeScript
@@ -14,14 +14,20 @@ E-commerce de tickets de cine construido con React, TypeScript y las mejores lib
 - 🐻 Zustand
 - 🎬 TMDB API
 
-## 📸 Screenshots
+## 📸 Capturas de Pantalla
 
-![Screenshot 1](Docs/1.png)
-![Screenshot 2](Docs/2.png)
-![Screenshot 3](Docs/3.png)
-![Screenshot 4](Docs/4.png)
-![Screenshot 5](Docs/5.png)
-![Screenshot 5](Docs/6.png)
+### Anali Salvador Advincula
+![Captura 1](Docs/1.png)
+![Captura 2](Docs/2.png)
+![Captura 3](Docs/3.png)
+![Captura 4](Docs/4.png)
+![Captura 5](Docs/5.png)
+![Captura 6](Docs/6.png)
+
+### Ederd Carrasco Oscco
+![Captura 7](Docs/7.png)
+![Captura 8](Docs/8.png)
+
 ## 📦 Instalación
 
 ```bash
@@ -31,7 +37,7 @@ npm install
 npm run dev
 ```
 
-## ⚙️ Variables de entorno
+## ⚙️ Variables de Entorno
 
 Crea un archivo `.env` en la raíz:
 
@@ -46,9 +52,10 @@ VITE_TMDB_API_KEY=tu_api_key_aqui
 - 🛒 Carrito de tickets
 - 🌑 UI oscura y minimalista
 
-## 👩‍💻 Autora
+## 👥 Autores
 
-**Anali Salvador** — [@anali-salvador](https://github.com/anali-salvador)
+**Anali Salvador Advincula** — [@anali-salvador](https://github.com/anali-salvador)  
+**Ederd Carrasco Oscco** — [@eder3105](https://github.com/eder3105)
 
 ---
 Proyecto desarrollado en TECSUP 2026
